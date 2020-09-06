@@ -6,4 +6,4 @@ featured_image = ""
 description = ""
 +++
 Test test
-![Example image](img/tumblr_okvq7zbr941ue76xlo1_r2_1280.png)
+![Example image](/tumblr_okvq7zbr941ue76xlo1_r2_1280.png)
