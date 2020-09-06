@@ -1,5 +1,6 @@
 theme: "ananke"
-title: "Nathan Cornille"
+title: "Nathan Cornillee"
 baseURL: "https://nathancornille.github.io/"
 params:
   featured_image: /tumblr_okvq7zbr941ue76xlo1_r2_1280.png
+  favicon:
