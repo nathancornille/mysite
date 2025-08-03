@@ -6,3 +6,5 @@ dist
 .cache
 .idea
 z_archive/ananke/
+.idea/
+hugo-embed-pdf-shortcode/

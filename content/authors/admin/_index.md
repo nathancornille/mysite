@@ -79,8 +79,8 @@ email: ""
 #- Visitors
 ---
 Hi, I'm Nathan.
-I'm doing a machine learning PhD at the [LIIR lab](https://liir.cs.kuleuven.be/) at KU Leuven.
-I'm interested in understanding the building blocks that make up "intelligence".
+I'm currently working as AI Software Engineer at [IntellectEU](https://www.intellecteu.com/), where I work on machine learning and AI projects in the financial sector.
+Before that, I did a machine learning PhD at the [LIIR lab](https://liir.cs.kuleuven.be/) at KU Leuven.
 
 This site is intended on the one hand as a point of contact for people interested in working with me, so you can find my [contact details](#contact) and my [CV](#cv) here.
 
